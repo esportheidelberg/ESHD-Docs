@@ -13,5 +13,8 @@ Du willst das OSAMD-Projekt nachbauen? Hier die Punkte, die du durchgehen sollte
 
 Das alles klingt zu komplex? Dann schau auf der Projektwebseite(https://osamd.de/) nach, wann der nächste offene Workshop ansteht und bau eine Messstation gleich mit anderen zusammen!
 
+!!! danger "Achtung"
+        Die von der OSAMD-Messstation generierten Lüftungsempfehlungen sind jediglich eine weitere Hilfe in der Entscheidungsfindung, ob es sinnvoll ist zu lüften und sollten nicht als einziger Faktor in der Entscheidung genommen werden. Aufgrund des Messprinzipes können manche gefährlichen Stoffe in der Luft nicht detektiert werden. 
+
 ## Dank & Unterstützer
 Eine volle Liste der Unterstüzer findet sich auf der dazugehörigen Seite - hier werden deshalb nur Organisationen genannt, die das Projekt in besonderem Maße unterstützt haben.

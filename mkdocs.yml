@@ -12,8 +12,8 @@ theme:
   name: material
   #custom_dir: docs/assets/overrides
   language: de
-  favicon: assets/images/ui/p3g3/favicon.png
-  logo: assets/images/ui/p3g3/logo.png
+  favicon: assets/images/ui/p3g3/favicons/favicon.ico
+  logo: assets/images/ui/p3g3/logo/logo-normalized.png
   icon: 
     repo: fontawesome/brands/github
   features: 
