@@ -1,1 +1,79 @@
-site_name: My Docs
+#Based of https://github.com/Aircoookie/WLED-Docs
+#German configuration
+site_name: OSAMD-Dokumentation
+site_author: Paul Goldschmidt
+#site_url: https://osamd.de
+repo_name: OSAMD-Docs
+repo_url: https://github.com/PaulGoldschmidt/OSAMD-Docs
+#repo_title: OSAMD-Docs
+copyright: Copyright &copy; 2020-2022 Paul Goldschmidt, Contributors
+edit_uri: https://github.com/PaulGoldschmidt/OSAMD-Docs/edit/main/docs
+theme:
+  name: material
+  #custom_dir: docs/assets/overrides
+  language: de
+  favicon: assets/images/ui/p3g3/favicon.png
+  logo: assets/images/ui/p3g3/logo.png
+  icon: 
+    repo: fontawesome/brands/github
+  features: 
+    - navigation.top
+    # - navigation.expand
+    - navigation.instant
+    - navigation.tabs
+    # - toc.integrate
+  palette:
+    - scheme: osamd
+      primary: cyan #mostly overriden in extra.css
+      accent: orange
+      toggle: 
+        icon: material/weather-sunny
+        name: Light Mode
+    - scheme: default
+      primary: orange
+      accent: orange
+      toggle: 
+        icon: material/weather-night
+        name: Dark Mode
+plugins: 
+  - search
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tilde
+extra:
+  social:
+    - icon: fontawesome/solid/code
+      link: https://github.com/PaulGoldschmidt/OSAMD
+      name: Github
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/results?search_query=OSAMD
+    - icon: fontawesome/solid/heart
+      link: https://paypal.me/quantensittich
+extra_css:
+  - assets/stylesheets/global.css
+  - assets/stylesheets/extra.css
+extra_javascript:
+  - assets/js/newtab.js
+nav:
+  - Home: index.md
+  - Grundlagen:
+    - Setup: basics/getting-started.md
+    - Selber bauen:
+      - Das Konzept: basics/the-science.md
+      - Hardware: basics/hardware.md
+      - Software: basics/software.md
+    - Weitere Projekte: basics/further-projects.md
+    - FAQ: basics/faq.md
+  - Features:
+    - Aktuelle Features: features/today.md
+    - Geplante Features: features/tomorrow.md
+    - Selber Mithelfen: features/get-involved.md
+  - Über das Projekt:
+    - Das Projekt: about/the-project.md
+    - Die Leute hinter dem Projekt: about/contributors.md
+    - Impressum: about/privacy-policy.md
+    - Datenschutzerklärung: about/roadmap.md

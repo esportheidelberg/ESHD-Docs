@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Willkommen auf der Dokumentationsseite des OSAMD-Projektes - der quelloffenen Luftqualitätsmessstation.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Diese Seite ist dafür entwickelt, den Nachbau und die Weiterentwicklung des **Open-Source Air-Monitoring Devices** leicht zu machen und zu fördern. Dafür werden hier Aufbauanleitungen, weiterführende Erklärungen und Quellcodeverzeichnisse zusammengefürt.
 
-## Commands
+## Aktueller Projektstatus
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Schnellstart
+Du willst das OSAMD-Projekt nachbauen? Hier die Punkte, die du durchgehen solltest:
+* Besorg' dir die Hardware.
+* Schau, ob du die Werkzeuge zur Hand hast. Wenn nicht: In vielen Städten(https://hackaday.io/hackerspaces) gibt es offene Werkstätten, die alle Werkzeuge schon haben und dir gegen ein Paar Kekse 🍪 oder eine kleine Spende diese aushändigen.
+* Bespiele den Microcontroller mit der aktuellen Software.
+* Bau alles zusammen und starte, Energie zu sparen!
 
-## Project layout
+Das alles klingt zu komplex? Dann schau auf der Projektwebseite(https://osamd.de/) nach, wann der nächste offene Workshop ansteht und bau eine Messstation gleich mit anderen zusammen!
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Dank & Unterstützer
+Eine volle Liste der Unterstüzer findet sich auf der dazugehörigen Seite - hier werden deshalb nur Organisationen genannt, die das Projekt in besonderem Maße unterstützt haben.
