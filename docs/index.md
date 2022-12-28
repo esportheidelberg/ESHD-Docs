@@ -7,14 +7,15 @@ Diese Seite ist dafür entwickelt, den Nachbau und die Weiterentwicklung des **O
 ## Schnellstart
 Du willst das OSAMD-Projekt nachbauen? Hier die Punkte, die du durchgehen solltest:
 * Besorg' dir die Hardware.
-* Schau, ob du die Werkzeuge zur Hand hast. Wenn nicht: In vielen Städten(https://hackaday.io/hackerspaces) gibt es offene Werkstätten, die alle Werkzeuge schon haben und dir gegen ein Paar Kekse 🍪 oder eine kleine Spende diese aushändigen.
+* Schau, ob du die Werkzeuge zur Hand hast. Wenn nicht: In vielen [Städten](https://hackaday.io/hackerspaces) gibt es offene Werkstätten, die alle Werkzeuge schon haben und dir gegen ein Paar Kekse 🍪 oder eine kleine Spende diese aushändigen.
 * Bespiele den Microcontroller mit der aktuellen Software.
 * Bau alles zusammen und starte, Energie zu sparen!
 
-Das alles klingt zu komplex? Dann schau auf der Projektwebseite(https://osamd.de/) nach, wann der nächste offene Workshop ansteht und bau eine Messstation gleich mit anderen zusammen!
+Das alles klingt zu komplex? Dann schau auf der [Projektwebseite](https://osamd.de/) nach, wann der nächste offene Workshop ansteht und bau eine Messstation gleich mit anderen zusammen!
 
 !!! danger "Achtung"
         Die von der OSAMD-Messstation generierten Lüftungsempfehlungen sind jediglich eine weitere Hilfe in der Entscheidungsfindung, ob es sinnvoll ist zu lüften und sollten nicht als einziger Faktor in der Entscheidung genommen werden. Aufgrund des Messprinzipes können manche gefährlichen Stoffe in der Luft nicht detektiert werden. 
+---
 
 ## Dank & Unterstützer
 Eine volle Liste der Unterstüzer findet sich auf der dazugehörigen Seite - hier werden deshalb nur Organisationen genannt, die das Projekt in besonderem Maße unterstützt haben.
