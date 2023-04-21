@@ -1,9 +1,9 @@
-#Based of https://github.com/Aircoookie/WLED-Docs
+#Based on https://github.com/PaulGoldschmidt/OSAMD-Docs
 #German configuration
 site_name: Heidelberger E-Sport-Tage - Wissenshub
 site_author: Paul Goldschmidt
 site_url: https://wiki.esport-heidelberg.de/
-repo_name: OSAMD-Docs
+repo_name: ESHD-Wiki
 repo_url: https://github.com/esportheidelberg/ESHD-Docs
 #repo_title: OSAMD-Docs
 copyright: Copyright &copy; 2020-2023 E-Sport Heidelberg, Contributors
@@ -44,6 +44,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.details
   - pymdownx.tilde
+
 extra:
   social:
     - icon: fontawesome/brands/twitch
