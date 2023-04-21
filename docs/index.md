@@ -1,21 +1,30 @@
-# Willkommen auf der Dokumentationsseite des OSAMD-Projektes - der quelloffenen Luftqualitätsmessstation.
+# Moin! Willkommen auf dem Wissenshub der Heidelberger E-Sport Tage (oder: dem Wiki)
 
-Diese Seite ist dafür entwickelt, den Nachbau und die Weiterentwicklung des **Open-Source Air-Monitoring Devices** leicht zu machen und zu fördern. Dafür werden hier Aufbauanleitungen, weiterführende Erklärungen und Quellcodeverzeichnisse zusammengefürt.
+In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tagen, die bisher stattgefunden haben:
+* [Heidelberger E-Sport Tage 2021](events/esporttage2021) [(Aftermovie)](https://www.youtube.com/watch?v=hgW-Nj9en6I)
+* [Heidelberger E-Sport Tage 2022]() [(Aftermovie)](https://www.youtube.com/watch?v=k5y1RATkXUo)
 
-## Aktueller Projektstatus
+## Anleitungen in diesem Wiki
+Die folgenden Anleitungen exisiteren 
 
-## Schnellstart
-Du willst das OSAMD-Projekt nachbauen? Hier die Punkte, die du durchgehen solltest:
-- Besorg' dir die Hardware.
-- Schau, ob du die Werkzeuge zur Hand hast. Wenn nicht: In vielen [Städten](https://hackaday.io/hackerspaces) gibt es offene Werkstätten, die alle Werkzeuge schon haben und dir gegen ein Paar Kekse 🍪 oder eine kleine Spende diese aushändigen.
-- Bespiele den Microcontroller mit der aktuellen Software.
-- Bau alles zusammen und starte, Energie zu sparen!
+## Übersichtsseiten in diesem Wiki
+Nicht konkrete Anleitungen, sondern allgemeine Übersichtsseiten exisiteren im Moment zu den folgenden Themen:
 
-Das alles klingt zu komplex? Dann schau auf der [Projektwebseite](https://osamd.de/) nach, wann der nächste offene Workshop ansteht und bau eine Messstation gleich mit anderen zusammen!
+### Austragungsorte
+Mit diesen Austragungsorten haben wir bisher Erfahrung sammeln können:
+
+### Projektpartner
+Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
+
+### Personen
+"Hier könnte auch ihr Name stehen!" - Die folgenden Personen haben direkt bei dabei geholfen, die E-Sport-Tage zu dem zu machen, für die wir sie kennen und mögen:
+
+## Über dieses Wiki
+Dieses Wiki umfasst im Moment
 
 !!! danger "Achtung"
-        Die von der OSAMD-Messstation generierten Lüftungsempfehlungen sind jediglich eine weitere Hilfe in der Entscheidungsfindung, ob es sinnvoll ist zu lüften und sollten nicht als einziger Faktor in der Entscheidung genommen werden. Aufgrund des Messprinzipes können manche gefährlichen Stoffe in der Luft nicht detektiert werden. 
+        Dieses Wiki ist vielleicht ein guter Startpunkt für die Organisation von weiteren Events (im Rahmen der Heidelberger E-Sport Tage 2023 oder für ganz andere Events), jedoch sollte dieses Wiki gleichzeitig nicht die einzige Wissensquelle für euer Event sein. Kooperiert mit erfahrenen Menschen, fragt nach und nutzt euren natürlichen Menschenverstand, um das Event zu der bestmöglichen Erfahrung für alle Beteiligten zu machen.
 ---
 
-## Dank & Unterstützer
-Eine volle Liste der Unterstüzer findet sich auf der dazugehörigen Seite - hier werden deshalb nur Organisationen genannt, die das Projekt in besonderem Maße unterstützt haben.
+## Credits
+Dieses Wiki wurde von [Paul Goldschmidt](https://paul-goldschmidt.de/) mit der Hoffnung eines zentralen Platzes des Wissenstransfers zu Events im Rahmen der Heidelberger E-Sport Tage im Mitte des Jahres 2023 initial erstellt. Der Quelltext der Seite ist frei auf GitHub verfügbar, die Seiten werden in Markdown geschrieben und automatisch über GitHub Actions mit Mkdocs als Seite publiziert und von GitHub Pages gehostet. So ist sichergestellt, das diese Seite auch längerfristig im Netz verfügbar bleibt.
