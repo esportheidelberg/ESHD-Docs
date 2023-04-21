@@ -30,7 +30,7 @@ theme:
         icon: material/weather-sunny
         name: Light Mode
     - scheme: default
-      primary: orange
+      primary: grey
       accent: orange
       toggle: 
         icon: material/weather-night
