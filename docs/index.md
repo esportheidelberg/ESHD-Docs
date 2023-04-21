@@ -1,11 +1,12 @@
 # Moin! Willkommen auf dem Wissenshub der Heidelberger E-Sport Tage (oder: dem Wiki)
 
 In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tagen, die bisher stattgefunden haben:
+
 * [Heidelberger E-Sport Tage 2021](events/esporttage2021) [(Aftermovie)](https://www.youtube.com/watch?v=hgW-Nj9en6I)
 * [Heidelberger E-Sport Tage 2022]() [(Aftermovie)](https://www.youtube.com/watch?v=k5y1RATkXUo)
 
 ## Anleitungen in diesem Wiki
-Die folgenden Anleitungen exisiteren 
+Die folgenden Anleitungen exisiteren bisher hier:
 
 ## Übersichtsseiten in diesem Wiki
 Nicht konkrete Anleitungen, sondern allgemeine Übersichtsseiten exisiteren im Moment zu den folgenden Themen:
