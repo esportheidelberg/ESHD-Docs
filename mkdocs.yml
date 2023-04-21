@@ -63,12 +63,21 @@ nav:
   - Home: index.md
   - Anleitungen:
     - Organisation:
-      - Vor dem Event:
-        - Werbung: anleitungen/organisation/vor-dem-event/werbung.md
-      - Während dem Event:
-        - Presse beim Event: anleitungen/organisation/waehrend-dem-event/presse.md
-      - Nach dem Event:
-        - Nachbereitung: anleitungen/organisation/nach-dem-event/nachbereitung.md
+      - Allgemein:
+        - Social Media: anleitungen/organisation/allgemein/social-media.md
+        - Team-Mangement: anleitungen/organisation/allgemein/team-mangement.md
+        - Zugangsdaten verwalten: anleitungen/organisation/allgemein/zugangsdaten-verwalten.md
+        - Die Organisations-Rollen: anleitungen/organisation/allgemein/orga-rollen.md
+      - Die Events:
+        - Vor dem Event:
+          - Ein Helfer-Team finden: anleitungen/organisation/vor-dem-event/team-finden.md
+          - Werbung: anleitungen/organisation/vor-dem-event/werbung.md
+          - 
+        - Während dem Event:
+          - Presse beim Event: anleitungen/organisation/waehrend-dem-event/presse.md
+        - Nach dem Event:
+          - Nachbereitung: anleitungen/organisation/nach-dem-event/nachbereitung.md
+          - Die nächste Generation "E-Sport Heidelberg" finden: anleitungen/organisation/nach-dem-event/die-naechste-generation.md
     - Technik:
       - Streamingsetup: anleitungen/technik/streamingsetup.md
       - YouTube-Setup: anleitungen/technik/youtubesetup.md
@@ -77,6 +86,9 @@ nav:
     - Wiki:
       - Richtig Bearbeiten: anleitungen/wiki/richtig-bearbeiten.md
   - Übersichtsseiten:
+    - Wissenswertes zu Events:
+      - Personalaufwand bei den E-Sport-Tagen: uebersicht/wissenswertes-events/personalaufwand.md
+      - Kosten der Heidelberger E-Sport-Tage: uebersicht/wissenswertes-events/kosten-esporttage.md
     - Orte:
       - Bürgerhaus Heidelberg: uebersicht/orte/heidelberg-buergerhaus.md
       - Neckahalle Heidelberg: uebersicht/orte/heidelberg-neckarhalle.md
