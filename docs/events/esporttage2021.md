@@ -1,3 +1,11 @@
+---
+title: Heidelberger E-Sport Tage 2021
+summary: Die Übersichtsseite zu den Heidelberger E-Sport Tagen 2021.
+authors:
+    - Paul Goldschmidt
+date: 2023-04-21
+---
+
 # Die Heidelberger E-Sport Tage 2021
 Das erste Event der Heidelberger E-Sport Tage!
 ## Übersicht

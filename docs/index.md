@@ -2,8 +2,8 @@
 
 In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tagen, die bisher stattgefunden haben:
 
-* [Heidelberger E-Sport Tage 2021](events/esporttage2021) [(Aftermovie)](https://www.youtube.com/watch?v=hgW-Nj9en6I)
-* [Heidelberger E-Sport Tage 2022]() [(Aftermovie)](https://www.youtube.com/watch?v=k5y1RATkXUo)
+* [Heidelberger E-Sport Tage 2021](events/esporttage2021.md) [(Aftermovie)](https://www.youtube.com/watch?v=hgW-Nj9en6I)
+* [Heidelberger E-Sport Tage 2022](events/esporttage2022.md) [(Aftermovie)](https://www.youtube.com/watch?v=k5y1RATkXUo)
 
 ## Anleitungen in diesem Wiki
 Die folgenden Anleitungen exisiteren bisher hier:
