@@ -61,20 +61,32 @@ extra_javascript:
   - assets/js/newtab.js
 nav:
   - Home: index.md
-  - Grundlagen:
-    - Setup: basics/getting-started.md
-    - Selber bauen:
-      - Das Konzept: basics/the-science.md
-      - Hardware: basics/hardware.md
-      - Software: basics/software.md
-    - Weitere Projekte: basics/further-projects.md
-    - FAQ: basics/faq.md
-  - Features:
-    - Aktuelle Features: features/today.md
-    - Geplante Features: features/tomorrow.md
-    - Selber Mithelfen: features/get-involved.md
-  - Über das Projekt:
-    - Das Projekt: about/the-project.md
-    - Die Leute hinter dem Projekt: about/contributors.md
-    - Impressum: about/privacy-policy.md
-    - Datenschutzerklärung: about/roadmap.md
+  - Anleitungen:
+    - Organisation:
+      - Vor dem Event:
+        - Werbung:
+      - Während dem Event:
+        - Presse beim Event:
+      - Nach dem Event:
+        - Nachbereitung:
+    - Technik:
+      - Streamingsetup:
+      - YouTube:
+    - Eventtechnik:
+      - Grundüberlegungen: 
+    - Wiki:
+      - Richtig Bearbeiten: 
+  - Übersichtsseiten:
+    - Orte:
+      - Bürgerhaus Heidelberg: uebersicht/orte/heidelberg-buergerhaus.md
+      - Neckahalle Heidelberg: uebersicht/orte/heidelberg-neckarhalle.md
+      - Stadtjugendring Heidelberg: uebersicht/orte/heidelberg-stadtjugendring.md
+    - Partner:
+      - Jugendgemeinderat Heidelberg: uebersicht/partner/heidelberg-jugendgemeinderat.md
+      - Stadtjugendring Heidelberg: uebersicht/partner/heidelberg-stadtjugendring.md
+      - E-Sport Rhein-Neckar: uebersicht/partner/mannheim-esportrheinneckar.md
+    - Personen:
+      - Paul Goldschmidt: uebersicht/personen/paulgoldschmidt.md
+  - Events:
+    - E-Sport Tage 2021: events/esporttage2021.md
+    - E-Sport Tage 2022: events/esporttage2022.md
