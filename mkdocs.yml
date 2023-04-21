@@ -65,14 +65,14 @@ nav:
     - Organisation:
       - Allgemein:
         - Social Media: anleitungen/organisation/allgemein/social-media.md
-        - Team-Mangement: anleitungen/organisation/allgemein/team-mangement.md
+        - Team-Mangement: anleitungen/organisation/allgemein/team-management.md
         - Zugangsdaten verwalten: anleitungen/organisation/allgemein/zugangsdaten-verwalten.md
         - Die Organisations-Rollen: anleitungen/organisation/allgemein/orga-rollen.md
       - Die Events:
         - Vor dem Event:
-          - Ein Helfer-Team finden: anleitungen/organisation/vor-dem-event/team-finden.md
-          - Werbung: anleitungen/organisation/vor-dem-event/werbung.md
-          - 
+          - Ein Helfer-Team finden: anleitungen/organisation/zeitkritisch/vor-dem-event/team-finden.md
+          - Werbung: anleitungen/organisation/zeitkritisch/vor-dem-event/werbung.md
+          - Teilnehmerdaten richtig verwalten: anleitungen/organisation/zeitkritisch/vor-dem-event/teilnehmerdaten-verwalten.md
         - Während dem Event:
           - Presse beim Event: anleitungen/organisation/waehrend-dem-event/presse.md
         - Nach dem Event:
@@ -86,9 +86,11 @@ nav:
     - Wiki:
       - Richtig Bearbeiten: anleitungen/wiki/richtig-bearbeiten.md
   - Übersichtsseiten:
-    - Wissenswertes zu Events:
-      - Personalaufwand bei den E-Sport-Tagen: uebersicht/wissenswertes-events/personalaufwand.md
-      - Kosten der Heidelberger E-Sport-Tage: uebersicht/wissenswertes-events/kosten-esporttage.md
+    - Wissenswertes:
+      - Warum sich engagieren?: uebersicht/wissenswertes-/warum-engagieren.md
+      - Warum dieses Wiki aktuell halten?: uebersicht/wissenswertes/wiki-aktuell.md
+      - Personalaufwand bei den E-Sport-Tagen: uebersicht/wissenswertes/personalaufwand.md
+      - Kosten der Heidelberger E-Sport-Tage: uebersicht/wissenswertes/kosten-esporttage.md
     - Orte:
       - Bürgerhaus Heidelberg: uebersicht/orte/heidelberg-buergerhaus.md
       - Neckahalle Heidelberg: uebersicht/orte/heidelberg-neckarhalle.md
