@@ -64,18 +64,18 @@ nav:
   - Anleitungen:
     - Organisation:
       - Vor dem Event:
-        - Werbung:
+        - Werbung: anleitungen/organisation/vor-dem-event/werbung.md
       - Während dem Event:
-        - Presse beim Event:
+        - Presse beim Event: anleitungen/organisation/waehrend-dem-event/presse.md
       - Nach dem Event:
-        - Nachbereitung:
+        - Nachbereitung: anleitungen/organisation/nach-dem-event/nachbereitung.md
     - Technik:
-      - Streamingsetup:
-      - YouTube:
+      - Streamingsetup: anleitungen/technik/streamingsetup.md
+      - YouTube-Setup: anleitungen/technik/youtubesetup.md
     - Eventtechnik:
-      - Grundüberlegungen: 
+      - Grundüberlegungen: anleitungen/eventtechnik/grundueberlegungen.md
     - Wiki:
-      - Richtig Bearbeiten: 
+      - Richtig Bearbeiten: anleitungen/wiki/richtig-bearbeiten.md
   - Übersichtsseiten:
     - Orte:
       - Bürgerhaus Heidelberg: uebersicht/orte/heidelberg-buergerhaus.md
