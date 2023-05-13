@@ -19,11 +19,11 @@ Das erste Event der Heidelberger E-Sport Tage!
 ## Personen
 Diese Personen haben die Heidelberger E-Sport Tage mitgestalltet:
 
-* **[Emil Staab](../uebersicht/menschen/emilstaab):** Eventtechnik
-* **[Angelika Magin](../uebersicht/menschen/angelikamagin):** Veranstaltungs-Management
-* **[Steffen Wörner](../uebersicht/menschen/steffenwoerner):** Veranstaltungsstätten-Management
-* **[Jonas Stratmann](../uebersicht/menschen/jonasstratmann):** Technische Leitung
-* **[Paul Goldschmidt](../uebersicht/menschen/paulgoldschmidt):** Eventorganisation
+* **[Emil Staab](../uebersicht/personen/emilstaab):** Eventtechnik
+* **[Angelika Magin](../uebersicht/personen/angelikamagin):** Veranstaltungs-Management
+* **[Steffen Wörner](../uebersicht/personen/steffenwoerner):** Veranstaltungsstätten-Management
+* **[Jonas Stratmann](../uebersicht/personen/jonasstratmann):** Technische Leitung
+* **[Paul Goldschmidt](../uebersicht/personen/paulgoldschmidt):** Eventorganisation
 
 ## Hintergrundinformationen
 Als erste E-Sport-Veranstaltung in Heidelberg wurden die E-Sport-Tage 2021 unter dem Motto "Drei Tage, Drei Spiele, 18 Schulen aus Heidelberg" durchgeführt.
