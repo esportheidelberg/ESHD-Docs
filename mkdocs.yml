@@ -95,11 +95,20 @@ nav:
       - Bürgerhaus Heidelberg: uebersicht/orte/heidelberg-buergerhaus.md
       - Neckahalle Heidelberg: uebersicht/orte/heidelberg-neckarhalle.md
       - Stadtjugendring Heidelberg: uebersicht/orte/heidelberg-stadtjugendring.md
+    - Spiele:
+      - Counter-Strike Globale Offensive: uebersicht/spiele/csgo.md
+      - FIFA: uebersicht/spiele/fifa.md
+      - League of Legends: uebersicht/spiele/league-of-legends.md
+      - Valorant: uebersicht/spiele/valorant.md
     - Partner:
       - Jugendgemeinderat Heidelberg: uebersicht/partner/heidelberg-jugendgemeinderat.md
       - Stadtjugendring Heidelberg: uebersicht/partner/heidelberg-stadtjugendring.md
       - E-Sport Rhein-Neckar: uebersicht/partner/mannheim-esportrheinneckar.md
     - Personen:
+      - Emil Staab: uebersicht/personen/emilstaab.md
+      - Angelika Magin: uebersicht/personen/angelikamagin.md
+      - Steffen Wörner: uebersicht/steffenwoerner.md
+      - Jonas Stratmann: uebersicht/jonasstratmann.md
       - Paul Goldschmidt: uebersicht/personen/paulgoldschmidt.md
   - Events:
     - E-Sport Tage 2021: events/esporttage2021.md

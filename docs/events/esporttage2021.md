@@ -22,7 +22,7 @@ Diese Personen haben die Heidelberger E-Sport Tage mitgestalltet:
 * **[Emil Staab](../uebersicht/menschen/emilstaab):** Eventtechnik
 * **[Angelika Magin](../uebersicht/menschen/angelikamagin):** Veranstaltungs-Management
 * **[Steffen Wörner](../uebersicht/menschen/steffenwoerner):** Veranstaltungsstätten-Management
-* **[Jonas Stratmann](../uebersicht/menschen/paulgoldschmidt):** Technische Leitung
+* **[Jonas Stratmann](../uebersicht/menschen/jonasstratmann):** Technische Leitung
 * **[Paul Goldschmidt](../uebersicht/menschen/paulgoldschmidt):** Eventorganisation
 
 ## Hintergrundinformationen
