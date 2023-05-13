@@ -18,4 +18,4 @@ Diese Personen haben die Heidelberger E-Sport Tage mitgestalltet:
 * **[Emil Staab](../uebersicht/menschen/emilstaab):** Eventtechnik
 
 ## Bilder
-Alle Bilder von Paul Goldschmidt.  
+Alle Bilder von Paul Goldschmidt:
