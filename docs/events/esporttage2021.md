@@ -10,14 +10,14 @@ date: 2023-04-21
 Das erste Event der Heidelberger E-Sport Tage!
 
 ## Übersicht
-* **Datum:** 03./04.05. November 2021
+* **Datum:** 03./04./05. November 2021
 * **Location:** [Stadtjugendring Heidelberg](../uebersicht/orte/heidelberg-stadtjugendring.md)
 * **Partner:** [Jugendgemeinderat Heidelberg](../uebersicht/partner/heidelberg-jugendgemeinderat.md), [Stadtjugendring Heidelberg](../uebersicht/partner/heidelberg-stadtjugendring.md), [E-Sport Rhein-Neckar](../uebersicht/partner/mannheim-esportrheinneckar.md)
-* **Spiele:** [FIFA 2022](), [League of Legends](), [Counter-Strike: Globale Offensive]()
+* **Spiele:** [FIFA 2022](../uebersicht/spiele/fifa.md), [League of Legends](../uebersicht/spiele/league-of-legends.md), [Counter-Strike: Globale Offensive](../uebersicht/spiele/csgo.md)
 * **Teilnehmeranzahl**: ca. 80 in Präsenz / Max. 250 gleichzeitge Live-Stream-Zuschauer
 
 ## Personen
-Diese Personen haben die Heidelberger E-Sport Tage mitgestalltet:
+Diese Personen haben die Heidelberger E-Sport Tage mitgestaltet:
 
 * **[Emil Staab](../uebersicht/personen/emilstaab):** Eventtechnik
 * **[Angelika Magin](../uebersicht/personen/angelikamagin):** Veranstaltungs-Management
