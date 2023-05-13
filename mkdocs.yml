@@ -99,7 +99,13 @@ nav:
       - Counter-Strike Globale Offensive: uebersicht/spiele/csgo.md
       - FIFA: uebersicht/spiele/fifa.md
       - League of Legends: uebersicht/spiele/league-of-legends.md
+      - Rocket League: uebersicht/spiele/rocketleague.md
       - Valorant: uebersicht/spiele/valorant.md
+      - Regelwerke:
+        - Counter-Strike Globale Offensive: uebersicht/spiele/regelwerke/regelwerk-csgo.md
+        - FIFA: uebersicht/spiele/regelwerke/regelwerk-fifa.md
+        - Rocket League: uebersicht/spiele/regelwerke/regelwerk-rocketleague.md
+        - Valorant: uebersicht/spiele/regelwerke/regelwerk-valorant.md
     - Partner:
       - Jugendgemeinderat Heidelberg: uebersicht/partner/heidelberg-jugendgemeinderat.md
       - Stadtjugendring Heidelberg: uebersicht/partner/heidelberg-stadtjugendring.md
@@ -109,6 +115,7 @@ nav:
       - Angelika Magin: uebersicht/personen/angelikamagin.md
       - Steffen Wörner: uebersicht/personen/steffenwoerner.md
       - Jonas Stratmann: uebersicht/personen/jonasstratmann.md
+      - Katharina Spinner: uebersicht/personen/katharinaspinner.md
       - Paul Goldschmidt: uebersicht/personen/paulgoldschmidt.md
   - Events:
     - E-Sport Tage 2021: events/esporttage2021.md
