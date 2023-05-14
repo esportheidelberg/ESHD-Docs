@@ -1,5 +1,6 @@
 # Das E-Sport-Heidelberg-Wiki richtig bearbeiten
-Diese Datei schaut man sich am besten in einem Code-Editor im Rohtext an. Dazu empfieht sich [Visual Studio Code](https://code.visualstudio.com/).
+
+Diese Datei schaut man sich am besten in einem Code-Editor im Rohtext an. Dazu empfieht sich [Visual Studio Code](https://code.visualstudio.com/). Wie du die Änderungen in das Wiki dann tatsächlich einbringst, steht auf der Seite ["Änderungen Übernehmen"](./aenderungen-uebernehmen.md)
 
 # H1-Überschrift
 ## H2-Überschrift
@@ -20,9 +21,9 @@ Dies ist der zweite Absatz.
 Dieser Text ist **fett**.
 Dieser Text ist *kursiv*.
 
-[Link zum Beispiel](https://www.beispiel.com)
+[Link zum Beispiel](https://www.beispiel.de)
 
-![Beschreibung des Bildes](pfad/zum/bild.jpg)
+![Beschreibung des Bildes](../../img/events/esporttage2021/Bild-1.jpg)
 
 > Dies ist ein Zitat.
 
