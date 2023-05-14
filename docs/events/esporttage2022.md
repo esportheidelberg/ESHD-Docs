@@ -1,6 +1,6 @@
 ---
 title: Heidelberger E-Sport Tage 2022
-summary: Die Übersichtsseite zu den Heidelberger E-Sport Tagen 20212.
+summary: Die Übersichtsseite zu den Heidelberger E-Sport Tagen 2022.
 authors:
     - Paul Goldschmidt
 date: 2023-05-13
