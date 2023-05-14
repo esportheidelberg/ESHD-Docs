@@ -1,7 +1,7 @@
 # Gewinne bei den Heidelberger E-Sport Tagen
 Bisher wurden alle Pokale über [GS-Pokale](https://gs-pokale.de/) mit vollster Zufriedenheit bestellt.
 
-## Pokal-Bestellung E-Sport Tage 2021 (!7. Oktober 2021)
+## Pokal-Bestellung E-Sport Tage 2021 (17. Oktober 2021)
 | Artikelnr.   | Produkt      | Preis | Menge | Zwischensumme |
 |--------------|--------------|-------|-------|-------------|
 | 140.BL106-143 | 140.BL106 eSport Glaspokal/trophäe inkl. Beschriftung | 10,25 € | 1 | 10,25 € |
@@ -24,7 +24,7 @@ Bisher wurden alle Pokale über [GS-Pokale](https://gs-pokale.de/) mit vollster 
 | Steuer (19% MwSt.) |          |       |       | 18,03 €     |
 | Gesamtsumme   |              |       |       | 118,55 €   |
 
-## Pokal-Bestellung E-Sport Tage 2022
+## Pokal-Bestellung E-Sport Tage 2022 (14. Oktober 2021)
 
 | Artikelnr.    | Produkt      | Preis | Menge | Zwischensumme |
 |---------------|--------------|-------|-------|---------------|
