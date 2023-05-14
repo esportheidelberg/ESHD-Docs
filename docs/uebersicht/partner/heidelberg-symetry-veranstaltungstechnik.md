@@ -1,0 +1,6 @@
+# Symetry Veranstaltungstechnik e.K.
+Symetry Veranstaltungstechnik e.K. ist ein renommiertes Unternehmen mit Sitz in Heidelberg, das sich auf die Bereitstellung hochwertiger Veranstaltungstechnik spezialisiert hat. Seit seiner Gründung hat Symetry einen ausgezeichneten Ruf für seine professionellen Dienstleistungen und seine qualitativ hochwertige Ausrüstung aufgebaut. Das Unternehmen bietet eine breite Palette von Dienstleistungen an, darunter die Vermietung von Licht-, Ton- und Bühnentechnik sowie die Planung und Umsetzung von Veranstaltungen jeder Art und Größe. Das erfahrene Team von Symetry arbeitet eng mit Kunden zusammen, um deren Anforderungen zu verstehen und maßgeschneiderte Lösungen anzubieten, die den höchsten Standards gerecht werden. E-Sport-Heidelberg-Veranstaltungen etabliert.
+
+## Mitarbeit
+* **E-Sport Tage 2021:** Verleihender Veranstaltungstechnikdienstleister
+* **E-Sport Tage 2022:** Verleihender Veranstaltungstechnikdienstleister
