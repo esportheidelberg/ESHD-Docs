@@ -1,4 +1,4 @@
-# Die Halle des Stadtjugendrings
+# Die Halle des Stadtjugendrings im Haus am Harbigweg
 ![Ein Drohnenfoto des Stadtjugendrings (April 2021)](../../img/uebersicht/orte/stadtjugendring1.jpg)
 Die Halle des Stadtjugendrings: Hier hat alles mit den E-Sport Tagen begonnen!
 ## Wissenswertes zu der Location
