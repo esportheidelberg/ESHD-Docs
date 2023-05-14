@@ -8,6 +8,9 @@ In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tage
 ## Anleitungen in diesem Wiki
 Die folgenden Anleitungen exisiteren bisher hier:
 
+## Eventtechnik
+* [Grundüberlegungen (Planung) der Eventtechnik](./anleitungen/eventtechnik/grundueberlegungen.md)
+
 ## Übersichtsseiten in diesem Wiki
 Nicht konkrete Anleitungen, sondern allgemeine Übersichtsseiten exisiteren im Moment zu den folgenden Themen:
 
@@ -20,9 +23,33 @@ Mit diesen Austragungsorten haben wir bisher Erfahrung sammeln können:
 
 ### Projektpartner
 Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
+* [Jugendgemeinderat Heidelberg](./uebersicht/partner/heidelberg-jugendgemeinderat.md)
+* [Stadtjugendring Heidelberg](./uebersicht/partner/heidelberg-stadtjugendring.md)
+* [Symetry Veranstaltungstechnik e.K.](./uebersicht/partner/heidelberg-symetry-veranstaltungstechnik.md)
+* [E-Sport Rhein-Neckar](./uebersicht/partner/mannheim-esportrheinneckar.md)
 
 ### Personen
-"Hier könnte auch ihr Name stehen!" - Die folgenden Personen haben direkt bei dabei geholfen, die E-Sport-Tage zu dem zu machen, für die wir sie kennen und mögen:
+"Hier könnte auch ihr Name stehen!" - die folgenden Personen haben direkt bei dabei geholfen, die E-Sport-Tage zu dem zu machen, für die wir sie kennen und mögen:
+* [Angelika Magin](./uebersicht/personen/angelikamagin.md)
+* [Emil Staab](./uebersicht/personen/emilstaab.md)
+* [Jonas Stratmann](./uebersicht/personen/jonasstratmann.md)
+* [Katharina Spinner](./uebersicht/personen/katharinaspinner.md)
+* [Paul Goldschmidt](./uebersicht/personen/paulgoldschmidt.md)
+* [Steffen Wörner](./uebersicht/personen/steffenwoerner.md)
+* [Sven Grünwald](./uebersicht/personen/svengrunwald.md)
+
+### Spiele
+* [Counter-Strike: Globale Offensive](./uebersicht/spiele/csgo.md)
+* [FIFA](./uebersicht/spiele/fifa.md)
+* [League of Legends](./uebersicht/spiele/league-of-legends.md)
+* [Rocket League](./uebersicht/spiele/rocketleague.md)
+* [Valorant](./uebersicht/spiele/valorant.md)
+
+### Wissenswertes
+* [Die Kosten der E-Sport Tage](./uebersicht/wissenswertes/kosten-esporttage.md)
+* [Der Personalaufwand der E-Sport Tage](./uebersicht/wissenswertes/personalaufwand.md)
+* [Warum es sich lohnt, sich zu engagieren](./uebersicht/wissenswertes/warum-engagieren.md)
+* [Was bisher geschah: Eine kleine Geschichte der Heidelberger E-Sport Tage](./uebersicht/wissenswertes/was-bisher-geschah.md)
 
 ## Über dieses Wiki
 Dieses Wiki umfasst im Moment
