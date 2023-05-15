@@ -29,4 +29,4 @@ Sollte während eines Einzelspiels bei einem Spieler ein Problem auftreten, welc
 
 Bei einem Abbruch und Neustart des Einzelspiels spielen die Spieler in dem neugestarteten Spiel nur noch so viele (In-Game-) Spielminuten, wie bei dem abgebrochenen Spiel bis zur 90. (In-Game-)Spielminute übriggeblieben sind, d.h. die Differenz zwischen der (In-Game-) Spielminute, in der abgebrochen wurde und der 90. (In-Game-) Spieleminute. Nach Ablauf dieser übrigen (In-Game-)Spielminuten wird das Spiel beendet sobald der Ball im Aus ist. Bei einem Abbruch und Neustart des Einzelspiels werden die beiden Teilergebnisse zu einem Gesamtergebnis addiert.
 
-Änderungen zum Ablauf, den Regelungen und Einstellungen dürfen jederzeit vom Veranstalter bestimmt werden.
+**Änderungen zum Ablauf, den Regelungen und Einstellungen dürfen jederzeit vom Veranstalter bestimmt werden.**

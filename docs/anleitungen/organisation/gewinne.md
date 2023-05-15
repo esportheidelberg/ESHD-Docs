@@ -24,7 +24,7 @@ Bisher wurden alle Pokale über [GS-Pokale](https://gs-pokale.de/) mit vollster 
 | Steuer (19% MwSt.) |          |       |       | 18,03 €     |
 | Gesamtsumme   |              |       |       | 118,55 €   |
 
-## Pokal-Bestellung E-Sport Tage 2022 (14. Oktober 2021)
+## Pokal-Bestellung E-Sport Tage 2022 (14. Oktober 2022)
 
 | Artikelnr.    | Produkt      | Preis | Menge | Zwischensumme |
 |---------------|--------------|-------|-------|---------------|
