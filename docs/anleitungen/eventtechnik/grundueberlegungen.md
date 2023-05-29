@@ -1,2 +1,2 @@
 # Grundüberlegungen zur Eventtechnik
-Hier könnte etwas zu den Grundüberlegungen der Eventtechnik bei den E-Sport Tagen stehen.
+In der ersten Grundüberlegung für die Eventtechnik der E-Sport Tage war es mir (Emil) wichtig, eine Bühne zu bauen, die einen guten ersten Eindruck der ZuschauerInnen im Publikum in der Halle und Zuhause über die Kameras gewinnt. Anhand des Budgets, was mir zur Verfügung stand, konnte ich mir durch meine Erfahrung und Kontakte einen guten Überblick verschaffen und ein Grundgerüst erstellen, wie groß Bühne, Aufwand und Technikbedarf sein sollen. 
