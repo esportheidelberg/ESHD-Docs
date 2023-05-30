@@ -11,7 +11,9 @@ In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tage
 Die folgenden Anleitungen exisiteren bisher hier:
 
 ## Eventtechnik
-* [Grundüberlegungen (Planung) der Eventtechnik](./anleitungen/eventtechnik/grundueberlegungen.md)
+* [Grundüberlegungen zur Eventtechnik](./anleitungen/eventtechnik/grundueberlegungen.md)
+* [Planung](./anleitungen/eventtechnik/planung.md)
+* [Durchführung](./anleitungen/eventtechnik/durchfuehrung.md)
 
 ## Organisation
 * [Orga-Rollen](./anleitungen/organisation/orga-rollen.md)
