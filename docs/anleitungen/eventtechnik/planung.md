@@ -10,8 +10,9 @@ Das wichtigste - die Bühne. Hier liegt der Fokus der ZuschauerInnen drauf, hier
 Die Bühne bestand in beiden Jahren aus 10x3 Metern, gebaut aus 3 Reihen mit 2x1 Meter Bühnenelementen. (Im zweiten Jahr mit einem weiteren Element vorne dran.) Auf der 10x3 Meter Bühne haben gerade so 5 vs. 5 Spiele stattfinden können. Im ersten Jahr ins Publikum gerichtet. Hier musste aber eine Sichtschutzwand aufgestellt werden und die Leinwand mit der Liveübertragung war leicht bedeckt. Im zweiten Jahr haben wir uns für quer stehende Tische entschieden. Hier musste der Stream auf der Leinwand fürs Publikum aber verzögert werden, damit die SpielerInnen keine Cheatmöglichkeit hatten. 
 
 
-**WICHTIG:**  	  
-Bei der Tischordnung im zweiten Jahr haben wir nicht bedacht, dass die Tische außen sehr am Rand standen. Wir mussten außen Tische an die Bühnenelemente schieben, damit die SpielerInnen nicht von der Bühne rollen. Beachtet, dass ihr entweder eine Bühne baut, die an den Seitenrändern ein Geländer hat, oder wählt eine andere Ordnung der Tische. Auch beachten, dass die Bühne oft nicht ganz hinten an der Wand stehen kann, das heißt auch hier entsteht eine Lücke. Heißt: Vorher überlegen, wie viele Personen auf der Bühne spielen sollen, wie groß sie sein muss, wo sie stehen und wie was angeordnet sein soll.
+!!! danger "Achtung"
+        Bei der Tischordnung im zweiten Jahr haben wir nicht bedacht, dass die Tische außen sehr am Rand standen. Wir mussten außen Tische an die Bühnenelemente schieben, damit die SpielerInnen nicht von der Bühne rollen. Beachtet, dass ihr entweder eine Bühne baut, die an den Seitenrändern ein Geländer hat, oder wählt eine andere Ordnung der Tische. Auch beachten, dass die Bühne oft nicht ganz hinten an der Wand stehen kann, das heißt auch hier entsteht eine Lücke. Heißt: Vorher überlegen, wie viele Personen auf der Bühne spielen sollen, wie groß sie sein muss, wo sie stehen und wie was angeordnet sein soll.  	  
+
 
 **Bühnenplan 2022**  
 Schwarz=Traversen     
