@@ -1,6 +1,6 @@
 # Durchführung der Eventtechnik
 ## Aufbau
-(Bilder von Emil Staab)
+(Bild von [Emil Staab](https://wiki.esport-heidelberg.de/uebersicht/personen/emilstaab/))
 ![Aufbau](https://i.imgur.com/eqVhpu8.jpg) 
 
 Wärend dem Aufbau kann es oft mal unordentlich sein. Wichtig ist, dass es eine Person gibt, die den Aufbau koordiniert und Anweisungen an die Helfer gibt. Ja Helfer. Das geht nicht alleine oder zu zweit !!
@@ -14,4 +14,16 @@ Die Lampen sollten dann mit Strom versorgt werden, dann mit DMX. Es ist sinnvoll
 Der Ton wird nebenher aufgebaut. Boxen gestellt, Kabel gelegt, Sound getestet. Das ist aber alles sehr flexibel, da es keine Arbeitsschritte gibt, bei denen man unbegingt mehrere Menschen gleichzeitig benötigt.    
 Am Ende alles aufräumen, Cases verstauen und alles testen, berechnet hier genug Zeit ein, falls etwas nicht auf anhieb funktioniert.
 
-## Rest folgt in Kürze
+## Während der Veranstaltung
+(Bild von [Paul Goldschmidt](https://wiki.esport-heidelberg.de/uebersicht/personen/paulgoldschmidt/))
+![Veranstaltung](https://i.imgur.com/M8P6jP9.jpg)       
+
+Je nachdem, wie groß eure Veranstaltung ist und wie viel Equipment ihr verbastelt habt, muss jemand die Technik in der Halle betreuen. Bei machen Spielen kann es sehr praktisch sein, ein cooles Bühnenbild mit den Lampen erstellt zu haben. Zum Beispiel bei einem Shooter: Das Angreiferteam kann in Rot und das Verteidigerteam in Blau getaucht sein, dem Spiel eben passend. So etwas muss natürlich dann auch immer angepasst werden. 
+
+## Abbau
+(Bild von [Paul Goldschmidt](https://wiki.esport-heidelberg.de/uebersicht/personen/paulgoldschmidt/))
+![Abbau](https://i.imgur.com/gQie6De.jpg)       
+
+Geschafft. Nicht ganz!  
+Beim Abbau alleine da stehen ist doof, deswegen im [Schichtplan](https://wiki.esport-heidelberg.de/anleitungen/eventtechnik/planung/#schichtplan-fur-die-veranstaltung) vermerken, wer wann beim Abbau ist. Mindestens 5 Personen zum Orga- und Technikteam sollten am Start sein, dass es cool für alle ist. Abbau geht immer super schnell und gibt einem ein tolles Gefühl, wenn alles wieder an richtiger Stelle ist.        
+Kleiner Tipp: Macht in der Halle mehrere Orte mit Zetteln fest, wo die Dinge hingehören, eine Ecke Veranstaltungsunternehmen, eine Technik vom Haus, usw. Dann sortiert ihr die Cases direkt in eine Ecke und habt später weniger Stress. Hier ist es auch sinnvoll, wenn der/die Techniker den Überblick behält und den Abbau mit Anweisungen koordiniert.
