@@ -11,11 +11,13 @@ In diesem Wiki findest du das geballte Wissen von allen Heidelberer E-Sport Tage
 Die folgenden Anleitungen exisiteren bisher hier:
 
 ## Eventtechnik
+
 * [Grundüberlegungen zur Eventtechnik](./anleitungen/eventtechnik/grundueberlegungen.md)
 * [Planung](./anleitungen/eventtechnik/planung.md)
 * [Durchführung](./anleitungen/eventtechnik/durchfuehrung.md)
 
 ## Organisation
+
 * [Orga-Rollen](./anleitungen/organisation/orga-rollen.md)
 * [Social Media](./anleitungen/organisation/social-media.md)
 * [Team-Management](./anleitungen/organisation/team-management.md)
@@ -25,10 +27,12 @@ Die folgenden Anleitungen exisiteren bisher hier:
 * [Merchandise bei den Heidelberger E-Sport Tagen](./anleitungen/organisation/merchandise.md)
 
 ## Zu diesem Wiki
+
 * [Änderungen übernehmen und allen Bereit stellen](./anleitungen/wiki/aenderungen-uebernehmen.md)
 * [Das Wiki richtig bearbeiten](./anleitungen/wiki/richtig-bearbeiten.md)
 
 ## Technik
+
 * [Das Aftermovie](./anleitungen/technik/aftermoviesetup.md)
 * [Das Netzwerk](./anleitungen/technik/netzwerksetup.md)
 * [Die PCs](./anleitungen/technik/pcsetup.md)
@@ -38,6 +42,7 @@ Die folgenden Anleitungen exisiteren bisher hier:
 Nicht konkrete Anleitungen, sondern allgemeine Übersichtsseiten exisiteren im Moment zu den folgenden Themen:
 
 ### Austragungsorte
+
 Mit diesen Austragungsorten haben wir bisher Erfahrung sammeln können:
 * [Halle des Haus am Harbigweg](./uebersicht/orte/heidelberg-stadtjugendring.md)
 * [Neckarhalle Heidelberg](./uebersicht/orte/heidelberg-neckarhalle.md)
@@ -45,6 +50,7 @@ Mit diesen Austragungsorten haben wir bisher Erfahrung sammeln können:
 * [Halle02](./uebersicht/orte/heidelberg-halle02.md)
 
 ### Projektpartner
+
 Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
 * [Jugendgemeinderat Heidelberg](./uebersicht/partner/heidelberg-jugendgemeinderat.md)
 * [Stadtjugendring Heidelberg](./uebersicht/partner/heidelberg-stadtjugendring.md)
@@ -52,6 +58,7 @@ Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
 * [E-Sport Rhein-Neckar](./uebersicht/partner/mannheim-esportrheinneckar.md)
 
 ### Personen
+
 "Hier könnte auch ihr Name stehen!" - die folgenden Personen haben direkt bei dabei geholfen, die E-Sport-Tage zu dem zu machen, für die wir sie kennen und mögen:
 * [Angelika Magin](./uebersicht/personen/angelikamagin.md)
 * [Emil Staab](./uebersicht/personen/emilstaab.md)
@@ -62,6 +69,7 @@ Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
 * [Sven Grünwald](./uebersicht/personen/svengrunwald.md)
 
 ### Spiele
+
 * [Counter-Strike: Globale Offensive](./uebersicht/spiele/csgo.md)
 * [FIFA](./uebersicht/spiele/fifa.md)
 * [League of Legends](./uebersicht/spiele/league-of-legends.md)
@@ -69,6 +77,7 @@ Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
 * [Valorant](./uebersicht/spiele/valorant.md)
 
 ### Wissenswertes
+
 * [Die Kosten der E-Sport Tage](./uebersicht/wissenswertes/kosten-esporttage.md)
 * [Der Personalaufwand der E-Sport Tage](./uebersicht/wissenswertes/personalaufwand.md)
 * [Warum es sich lohnt, sich zu engagieren](./uebersicht/wissenswertes/warum-engagieren.md)
