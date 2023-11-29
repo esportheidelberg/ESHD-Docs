@@ -52,6 +52,7 @@ Mit diesen Austragungsorten haben wir bisher Erfahrung sammeln können:
 ### Projektpartner
 
 Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
+
 * [Jugendgemeinderat Heidelberg](./uebersicht/partner/heidelberg-jugendgemeinderat.md)
 * [Stadtjugendring Heidelberg](./uebersicht/partner/heidelberg-stadtjugendring.md)
 * [Symetry Veranstaltungstechnik e.K.](./uebersicht/partner/heidelberg-symetry-veranstaltungstechnik.md)
@@ -60,6 +61,7 @@ Mit den folgenden Projektpartnern hatten wir in der Vergangenheit zutun:
 ### Personen
 
 "Hier könnte auch ihr Name stehen!" - die folgenden Personen haben direkt bei dabei geholfen, die E-Sport-Tage zu dem zu machen, für die wir sie kennen und mögen:
+
 * [Angelika Magin](./uebersicht/personen/angelikamagin.md)
 * [Emil Staab](./uebersicht/personen/emilstaab.md)
 * [Jonas Stratmann](./uebersicht/personen/jonasstratmann.md)
