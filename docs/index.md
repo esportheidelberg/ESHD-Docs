@@ -21,7 +21,7 @@ Die folgenden Anleitungen exisiteren bisher hier:
 * [Orga-Rollen](./anleitungen/organisation/orga-rollen.md)
 * [Social Media](./anleitungen/organisation/social-media.md)
 * [Team-Management](./anleitungen/organisation/team-management.md)
-* [Zeitsrahl eines klassichen Events](./anleitungen/organisation/zeitstrahl-event.md)
+* [Zeistrahl eines klassichen Events](./anleitungen/organisation/zeitstrahl-event.md)
 * [Zugangsdaten verwalten](./anleitungen/organisation/zugangsdaten-verwalten.md)
 * [Gewinne bei den Heidelberger E-Sport Tagen](./anleitungen/organisation/gewinne.md)
 * [Merchandise bei den Heidelberger E-Sport Tagen](./anleitungen/organisation/merchandise.md)
