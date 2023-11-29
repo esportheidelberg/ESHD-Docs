@@ -15,6 +15,39 @@ So als grobe Einordnung, was zu welcher Zeit gemachht werden muss, um erfolgreic
 - Kontaktaufnahme mit potenziellen Teilnehmern und Teams
 - Erstellung einer Webseite und Social-Media-Präsenz für das Event
 
+Liste der Schulen zum Kontaktieren (Stand 2022):
+
+| Nummer | Name                                       | Address                         |
+|--------|--------------------------------------------|---------------------------------|
+| 1      | Internationale Gesamtschule Heidelberg (IGH) | Baden-Badener Straße 14, 69126 Heidelberg |
+| 2      | Gregor-Mendel-Realschule                   | Harbigweg 24, 69124 Heidelberg  |
+| 3      | Johannes-Kepler-Realschule                 | Mönchhofstraße 24-26, 69120 Heidelberg-Neuenheim |
+| 4      | Theodor-Heuss-Realschule                   | Plöck 103-105, 69117 Heidelberg |
+| 5      | Bunsen-Gymnasium                           | Humboldtstraße 23, 69120 Heidelberg |
+| 6      | Helmholtz-Gymnasium                        | Rohrbacher Straße 102, 69126 Heidelberg |
+| 7      | Hölderlin-Gymnasium                        | Plöck 40, 69117 Heidelberg      |
+| 8      | Kurfürst-Friedrich-Gymnasium               | Neckarstaden 2, 69117 Heidelberg |
+| 9      | Geschwister-Scholl-Schule                  | Königsberger Straße 2, 69124 Heidelberg |
+| 10     | Waldparkschule                             | Am Waldrand 21, 69126 Heidelberg |
+| 11     | Elisabeth-von-Thadden-Schule               | Klostergasse 2-4, 69123 Heidelberg |
+| 12     | Englisches Institut                        | Rheinstraße 14, 69126 Heidelberg |
+| 13     | Freie Christliche Schule Heidelberg e.V.   | Felix-Wankel-Straße 12, 69126 Heidelberg |
+| 14     | Freie Waldorfschule Heidelberg e.V.        | Mittelgewannweg 16, 69123 Heidelberg |
+| 15     | F+U Heidelberger Privatschulcentrum        | Kurfürsten-Anlage 64-68, 69115 Heidelberg |
+| 16     | Heidelberg College                         | Neuenheimer Landstraße 16, 69120 Heidelberg |
+| 17     | Heidelberg International School (H.I.S.)   | Wieblinger Weg 7-9, 69123 Heidelberg |
+| 18     | Montessori Zentrum Heidelberg e.V. Schule  | Turnerstraße 133, 69126 Heidelberg |
+| 19     | LernZeitRäume                              | Slevogtstraße 3-5, 69126 Heidelberg |
+| 20     | St. Raphael-Gymnasium & Realschule         | Roonstraße 1, 69120 Heidelberg  |
+| 21     | Carl-Bosch-Schule                          | Maria-Probst-Straße 8, 69123 Heidelberg |
+| 22     | Fritz-Gabler-Schule                        | Buchwaldweg 6, 69126 Heidelberg |
+| 23     | Johannes-Gutenberg-Schule                  | Wieblinger Weg 24/7, 69115 Heidelberg |
+| 24     | Julius-Springer-Schule                     | Mark-Twain-Straße 1, 69126 Heidelberg |
+| 25     | Marie-Baum-Schule                          | Maria-Probst-Straße 6, 69123 Heidelberg |
+| 26     | Willy-Hellpach-Schule                      | Römerstraße 77, 69115 Heidelberg |
+| 27     | Graf von Galen-Schule                      | Schwalbenweg 1b, 69123 Heidelberg |
+
+
 **8 Monate vor dem Turnier:**
 - Veröffentlichung der Webseite und Beginn der Promotion
 - ggf. Organisation von Qualifikationsturnieren oder -runden für die Teilnahme
